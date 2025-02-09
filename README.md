@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=7AF79A&size=30&lines=Hey!+It's+Ahmed!;I'm+a+Software+Engineer...;I'm+a+.NET+Developer...;I'm+passionate+about+coding!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ahmedkhsk&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views" />
-
 ## About Me 💫
 
 - 🔭 I'm currently working as a Software Engineer specializing in .NET development
