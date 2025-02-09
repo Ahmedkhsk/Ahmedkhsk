@@ -1,3 +1,9 @@
+*.css linguist-vendored
+*.cpp linguist-vendored
+*.html linguist-vendored
+*.js linguist-vendored
+*.php linguist-vendored
+
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">Software Engineer | .Net Developer</h3>
 
