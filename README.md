@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">Software Engineer | .Net Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkhsk" alt="ahmedkhsk" /></a> </p>
-
 - 🌱 I’m currently learning **.Net**
 
 - 📫 How to reach me **mrahmedkhaled2004@gmail.com**
