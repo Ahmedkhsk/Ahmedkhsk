@@ -46,4 +46,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-khaled-6146a1239)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrahmedkhaled2004@gmail.com)
 
-
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhsk&theme=radical&row=1" alt="GitHub Trophies" />
+</p>
