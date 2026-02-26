@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7A5&center=true&vCenter=true&width=700&lines=Software+Engineer;.+NET+Developer;Backend+Focused;Clean+Architecture+Lover;Turning+Ideas+Into+Scalable+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7A5&center=true&vCenter=true&width=700&lines=Software+Engineer;.+NET+Backend+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Systems"/>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
-- 🔭 Software Engineer specialized in **.NET**
-- 🌱 Learning **Clean Architecture, Cloud & Advanced Backend**
+- 🔭 Software Engineer specialized in **.NET Backend**
+- 🌱 Learning **Clean Architecture, Cloud, Distributed Systems**
 - 💬 Ask me about **C#, ASP.NET Core, EF Core**
 - 📫 **mrahmedkhaled2004@gmail.com**
-- ⚡ I love transforming complexity into clean code
+- ⚡ I love turning complex problems into clean code
 
 ---
 
@@ -36,24 +36,17 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 🧠 What I Focus On
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhsk&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhsk&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedkhsk&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhsk&theme=radical&no-frame=true&row=1"/>
-</p>
+- ✔ Clean Architecture
+- ✔ RESTful APIs
+- ✔ SOLID Principles
+- ✔ Performance & Scalability
+- ✔ Real-World Backend Systems
 
 ---
 
@@ -69,10 +62,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedkhsk&label=Profile+Views&color=00F7A5&style=flat-square"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7A5,100:7A5CFF&height=120&section=footer"/>
